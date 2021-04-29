@@ -1,0 +1,14 @@
+{
+  "name": "React_Notes_For_VUEers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CafuChino <kirino@cafuchino.cn>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.11"
+  }
+}
